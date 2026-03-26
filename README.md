@@ -1,7 +1,11 @@
 Como executar o Selection Sort no terminal
+
 1. Compile todos os arquivos .java
+   
 javac StdIn.java StdOut.java Selection.java
-2. Execute passando o arquivo de texto como entrada
+
+3. Execute passando o arquivo de texto como entrada
+   
 java Selection < words3.txt
 
 
