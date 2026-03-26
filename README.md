@@ -9,7 +9,7 @@ javac StdIn.java StdOut.java Selection.java
 java Selection < words3.txt
 
 
-O operador `<` redireciona o conteúdo do `words3.txt` para o `StdIn`, que é lido pelo `StdIn.readAllStrings()` no `main`.
+O operador < redireciona o conteúdo do words3.txt para o StdIn, que é lido pelo StdIn.readAllStrings() no mai`.
 
 
 ### Saída esperada
